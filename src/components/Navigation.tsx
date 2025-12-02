@@ -44,7 +44,7 @@ export function Navigation() {
             onClick={() => scrollToSection("home")}
             className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-500"
           >
-            {"<YourName />"}
+            {"Qaqambile Mnqika"}
           </button>
 
           {/* Desktop Navigation */}
